@@ -1,4 +1,4 @@
-# DBMS (MySQL)
+# MySQL
 > KDT 과정 및 Web개발 강의에서 공부한 MySQL 관련 내용입니다.
 
 
