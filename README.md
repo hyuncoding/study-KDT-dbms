@@ -1,5 +1,5 @@
 # DBMS (MySQL)
-> KDT 과정에서 공부한 DBMS (MySQL) 관련 내용입니다.
+> KDT 과정 및 Web개발 강의에서 공부한 MySQL 관련 내용입니다.
 
 
 <hr/>
